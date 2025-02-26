@@ -18,3 +18,7 @@ Answer:Merging combines two branches by creating a new merge commit, preserving
 the full commit history. Rebasing moves commits from one branch onto another,
 rewriting history to create a cleaner structure.
 
+Q4: What are you looking forward to this semester?
+
+Answer: This semester I am most looking forward to learning advanced Python
+and SQL techniques as I would like to apply these on financial datasets.
