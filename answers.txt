@@ -1,11 +1,4 @@
-<<<<<<< HEAD
- 
-=======
 Q1: Why might we consider using Git?
 
-Answer:  Using git is good specifically for teams working on software or data-related projects.
-
-Q2: What field could data science be applied to? Give an Example.
-
-Answer: Data science can be applied to so many different fields but a main field I can see it being applied to is finance. In finance, data science can be used to analyze historical stock data, news, and market trends to make automated trading decisions.
->>>>>>> q1
+Answer: Using git helps one keep track of all changes made to a project. 
+It is especially useful when working with teams.
